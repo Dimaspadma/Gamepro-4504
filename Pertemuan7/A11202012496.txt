@@ -1,0 +1,3 @@
+1. Tidak. Karena dari state Idle tidak ada transisi yang terhubung dengan Run.
+2. Bisa. Tetapi dengan melalui state Idle terlebih dahulu, kemudian ke Crounch.
+3. Tidak. CrounchingWalk membutuhkan parameter Speed.
